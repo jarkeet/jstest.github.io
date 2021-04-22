@@ -23,7 +23,7 @@ function setUserName() {
     } else {
         localStorage.setItem('name', myName);
         myHeading.innerHTML = 'Mozilla 酷毙了，' + myName;
-        console.log("jfjij");
+        console.log("test");
     }
 }
 
